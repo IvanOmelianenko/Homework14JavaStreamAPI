@@ -7,7 +7,8 @@ public class Main {
                                           new User("michaeljameson@hotmail.com", "Michael", "Jameson", 24, 1999),
                                           new User("kellymcbride82@yahoo.com", "Kelly", "McBride", 35, 1988),
                                           new User("chonlee@gmail.com", "Chon", "Lee", 21, 2002),
-                                          new User("monicagreywig@hotspot.com", "Monica", "Greywig", 28, 1995));
+                                          new User("monicagreywig@hotspot.com", "Monica", "Greywig", 28, 1995),
+                                          new User("jessicawelsh@tl.com", "Jessica", "Welsh", 20, 2003));
 // 1st task
             userData.stream()
                     .sorted()
